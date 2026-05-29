@@ -1,5 +1,3 @@
 # bank-api
 
-Não tive tempo para finalizar
-Favor considerar os exercícios
-Obrigado!
+Não tive tempo para finalizar. Favor considerar os exercícios. Obrigado!
